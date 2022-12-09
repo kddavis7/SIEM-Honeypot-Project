@@ -5,7 +5,7 @@ This network is open to the internet, with no the firewall turned off.
 
 Each attacker that tries to gain access to this network is logged, and displayed within a dashboard.
 
-I created this HoneyPot dashboard in Microsoft Azure.  
+I created this HoneyPot dashboard in Microsoft Azure.  It displays the location of the attackers, as well as the number of attempts.
 
 Applications used - Microsoft Azure, Sentinel, Powershell, Remote Desktop Protocol (RDP), Windows Event Viewer, and Geolocation API tool.
 
