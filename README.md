@@ -10,6 +10,7 @@ The dashboard displays the location of the attackers, as well as the number of a
 Applications used - Microsoft Azure, Sentinel, Powershell, Remote Desktop Protocol (RDP), Windows Event Viewer, and Geolocation API tool.
 
 View the SIEM HoneyPot Dashboard as of 12.2022 [Here](https://siem-azure-honeypot.s3.amazonaws.com/SIEM-Azure-Honeypot-12.2022.png)
+(hosted as a static webpage with AWS S3)
 
 If you would like to view the live version of this SIEM Dashboard, let me know and I can grant you access to the resource within Azure.
 
