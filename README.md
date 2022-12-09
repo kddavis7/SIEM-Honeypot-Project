@@ -1,8 +1,8 @@
 # SIEM - Honeypot-Project
 This is my SIEM/Honey Pot (unsecured network) with a live dashboard.
 
-View the SIEM HoneyPot Dashboard as of 12.2022 [Here](https://siem-azure-honeypot.s3.amazonaws.com/SIEM-Azure-Honeypot-12.2022.png)
-(hosted as a static webpage with AWS S3)
+*** View the SIEM HoneyPot Dashboard as of 12.2022 [Here](https://siem-azure-honeypot.s3.amazonaws.com/SIEM-Azure-Honeypot-12.2022.png)
+(hosted as a static webpage with AWS S3) ***
 
 
 This network was created within a VIrtual Machine in Azure, is open to the internet, with no the firewall turned off.
