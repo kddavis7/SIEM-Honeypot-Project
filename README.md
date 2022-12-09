@@ -1,4 +1,4 @@
-# SIEM / Honeypot-Project
+# SIEM - Honeypot-Project
 This is my Honey Pot (unsecured network) with a live dashboard.
 
 I created this HoneyPot dashboard in Microsoft Azure.  
