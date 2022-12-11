@@ -10,7 +10,7 @@ Each attacker that tries to gain access to this network is logged, their data is
 
 The dashboard displays the location of the attackers, as well as the number of attempts.
 
-Applications used - Microsoft Azure, Sentinel, Powershell, Remote Desktop Protocol (RDP), Windows Event Viewer, and Geolocation API tool.
+Applications used - Microsoft Azure, Sentinel, AWS S3, Powershell, Remote Desktop Protocol (RDP), Windows Event Viewer, and Geolocation API tool.
 
 If you would like to view the live version of this SIEM Dashboard, let me know and I can grant you access to the resource within Azure.
 
